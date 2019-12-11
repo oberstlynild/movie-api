@@ -1,0 +1,50 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 602.86 489.01">
+	<defs>
+		<style>
+			.cls-1,.cls-6,.cls-7,.cls-8{fill:none;}.cls-2{fill:#af1918;}.cls-3{clip-path:url(#clip-path);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{clip-path:url(#clip-path-3);}.cls-6,.cls-7,.cls-8{stroke:#1d1d1b;stroke-width:5px;}.cls-6,.cls-7{stroke-miterlimit:10;}.cls-7,.cls-8{stroke-linecap:round;}.cls-8{stroke-linejoin:round;}
+		</style>
+		<clipPath id="clip-path" transform="translate(0.36 105.56)">
+			<rect class="cls-1" x="-111.77" width="689.25" height="163.18"/>
+		</clipPath>
+		<clipPath id="clip-path-2" transform="translate(0.36 105.56)">
+			<rect class="cls-1" y="-0.33" width="600" height="110.63"/>
+		</clipPath>
+		<clipPath id="clip-path-3" transform="translate(0.36 105.56)">
+			<rect class="cls-1" x="2.99" y="-1.68" width="593.56" height="111.98"/>
+		</clipPath>
+	</defs>
+	<title>curtains</title>
+	<path class="cls-2" d="M195.32,340.78c15.71,0,29.53,6.62,37.54,16.64V-.33H0V363.85c9.23-10.72,24.14-17.69,41-17.69,17.15,0,32.3,7.24,41.49,18.32h70.93C159.81,350.62,176.15,340.78,195.32,340.78Z" transform="translate(0.36 105.56)"/>
+	<ellipse class="cls-2" cx="117.95" cy="447.68" rx="42.17" ry="37.83"/>
+	<g class="cls-3">
+		<ellipse class="cls-2" cx="130.4" cy="96.22" rx="128.9" ry="96.22"/>
+	</g>
+	<g class="cls-4">
+		<ellipse class="cls-2" cx="472.41" cy="105.22" rx="127.95" ry="86.3"/>
+	</g>
+	<g class="cls-5">
+		<ellipse class="cls-2" cx="284.2" cy="94.22" rx="104.02" ry="93.56"/>
+	</g>
+	<path class="cls-2" d="M344.1,0V356.35h9.72c9-5.92,20.95-9.54,34.1-9.54s25.13,3.62,34.1,9.54h95.66c3.47-6.82,20.06-12,40-12s36.54,5.17,40,12H600V0Z" transform="translate(0.36 105.56)"/>
+	<ellipse class="cls-2" cx="471.34" cy="461.5" rx="43.43" ry="25.01"/>
+	<path class="cls-6" d="M216.93,65a176.73,176.73,0,0,1-104,23c-32.49-3-66.14-15.37-89.49-38.85C10.54,36.07,2,18.55,2.14,0" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M386.48.91C386.28,46.52,340,83.29,283.13,83S180.29,45.61,180.49,0" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M600,0c0,34-28,60-58,73C484,97,411,94,364.23,49.18" transform="translate(0.36 105.56)"/>
+	<line class="cls-7" x1="2.5" y1="105.56" x2="2.5" y2="467.97"/>
+	<line class="cls-7" x1="600.36" y1="105.56" x2="600.36" y2="473.7"/>
+	<line class="cls-7" x1="233.22" y1="177.53" x2="233.22" y2="467.97"/>
+	<line class="cls-7" x1="343.41" y1="174.53" x2="345.52" y2="471.07"/>
+	<path class="cls-6" d="M155.76,357.88c0,11.68-17.08,21.09-38.06,21s-37.94-9.61-37.9-21.29" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M3.09,362.42c-.17-8.95,16.54-16.15,38.58-16.26,21.31-.1,38.59,7.28,38.59,16.26" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M155.7,359.31c-.18-10.21,16.53-18.41,38.58-18.53,21.3-.12,38.58,8.3,38.58,18.53" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M514.47,359.94c0,11.68-18.94,21.09-42.21,21s-42.09-9.61-42-21.29" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M345.13,364.48c-.2-9,18.34-16.15,42.8-16.26,23.63-.1,42.79,7.28,42.79,16.26" transform="translate(0.36 105.56)"/>
+	<path class="cls-6" d="M514.4,361.37c-.19-10.21,18.35-18.41,42.8-18.53,23.64-.12,42.8,8.3,42.8,18.53" transform="translate(0.36 105.56)"/>
+	<line class="cls-7" x1="42.04" y1="256.26" x2="42.04" y2="451.72"/>
+	<line class="cls-7" x1="194.64" y1="256.26" x2="194.64" y2="446.33"/>
+	<line class="cls-8" x1="388.29" y1="256.26" x2="388.29" y2="453.78"/>
+	<line class="cls-7" x1="566.88" y1="256.26" x2="568.26" y2="446.33"/>
+	<path class="cls-6" d="M333.71,0c0,22.93-20.94,41.52-46.77,41.52S240.17,22.93,240.17,0" transform="translate(0.36 105.56)"/>
+	<path class="cls-7" d="M185.72,24.75c0,18.53-22.44,33.55-50.12,33.55s-50.11-15-50.11-33.55" transform="translate(0.36 105.56)"/>
+	<path class="cls-7" d="M483.14,20.76c0,18.53-22.44,33.55-50.12,33.55s-50.12-15-50.12-33.55" transform="translate(0.36 105.56)"/>
+</svg>

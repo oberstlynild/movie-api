@@ -1,0 +1,76 @@
+/*
+	Sådan zoomer du ind i diven, så den ikke falder ud af propositioner
+
+	Ydre div: overflow hidden;
+	inde div: transform scale;
+
+	OMRING DINE DIVER MED DIVER I JS
+*/
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	background-color: orange;
+}
+
+#bootstrap-cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	background-color: orange; /*ÆNDRE FARVEN HER TIL BAGGRUNDFARVEN PÅ DIN BODY*/
+}
+
+#bootstrap-cards img {
+	height: 100%;
+}
+
+#submit-movie-search {
+	display: none;
+}
+
+#container {
+	padding: 20px;
+}
+
+p {
+	margin: 0;
+}
+
+.card {
+	overflow: hidden;
+	margin: 2px;
+}
+
+.card img {
+	transition: 250ms;
+}
+
+.card img:hover {
+	cursor: pointer;
+	transform: scale(1.15);
+}
+
+@media only screen and (max-width: 1200px) {
+	#bootstrap-cards {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+
+/*
+
+.card:after {
+	display: block;
+	position: absolute;
+	top: 0;
+	content: "";
+	background-color: rgba(255,255,255,0.5);
+	height: 100%;
+	width: 100%;
+	pointer-events: none;
+}
+
+*/
+
